@@ -1,0 +1,15 @@
+.VideoSidebar {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+
+    .VideoSidebarButton {
+        padding: 20px;
+        text-align: center;
+
+        .icon {
+            cursor: pointer;
+            font-size: 30px;
+        }
+    }
+}
